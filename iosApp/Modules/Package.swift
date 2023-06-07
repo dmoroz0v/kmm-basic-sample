@@ -7,7 +7,7 @@ let package = Package(
     name: "Modules",
     defaultLocalization: "ru",
     platforms: [
-        .iOS(.v16)
+        .iOS(.v14)
     ],
 
     // MARK: - Products

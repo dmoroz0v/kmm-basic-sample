@@ -1,6 +1,13 @@
+//
+//  AppDelegate.swift
+//  iosApp
+//
+//  Created by Denis S. Morozov on 07.06.2023.
+//
+
 import UIKit
 
-@UIApplicationMain
+@main
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
